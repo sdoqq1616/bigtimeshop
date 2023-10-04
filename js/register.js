@@ -71,7 +71,7 @@ function registerUser(){
         conf_password.value='';
 
         bg.style.display ='block';
-        title.innerHTML='Felicitacion!!!!!!!';
+        title.innerHTML='Felicitaciones!!!!!!!';
         bg.style.animation='none';
         warning_msg.innerHTML = '¡Tu registro fue exitoso! En 5 segundos serás redirigido/a a la página de inicio de sesión.';
 
